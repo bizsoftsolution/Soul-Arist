@@ -1,0 +1,645 @@
+/*-------------- Color Settings CSS -------------*/
+.page-style2 #header.fixed-header{
+	background-color: #5a5a5a
+}
+.page-style2 .nav.navbar-nav::after {
+    border-right: 40px solid #f8b604
+}
+
+.get_quote .btn-secondary {
+	background-color: #000;
+	border: 2px solid #000
+}
+.get_quote .btn-secondary:hover {
+	background: transparent;
+	border: 2px solid #000;
+	color: #000
+}
+.btn-primary {
+	border-color: #40e0d0;
+	background-color: #40e0d0
+}
+.btn-primary:focus, 
+.btn-primary.focus, 
+.btn-primary:hover {
+	color: #40e0d0;
+	border-color: #40e0d0
+}
+h1, h2, h3, h4, h5, h6 {
+	color: #1a1a1a
+}
+.pagination > .active > a, 
+.pagination > .active > span, 
+.pagination > .active > a:hover, 
+.pagination > .active > span:hover, 
+.pagination > .active > a:focus, 
+.pagination > .active > span:focus {
+	border-color: #40e0d0;
+	background-color: #40e0d0
+}
+#header_top ul li i {
+	color: #fff;
+}
+.text-area ul li i {
+	color: #40e0d0
+}
+.banner_title {
+	color: #40e0d0
+}
+.open > .dropdown-toggle.btn-primary {
+	color: #40e0d0
+}
+.yellow_font {
+	color: #40e0d0
+}
+.read_more2_btn {
+	color: #1a1a1a
+}
+
+/*================== Home Page2 ===================*/
+.about_us_item:hover .downline_title{
+	color: #40e0d0;
+}
+#about_us2 .btn-black:hover{
+	background: transparent;
+	border-color: #000;
+	color: #000
+}
+#our_srvice2 .service_part h5 a {
+  color: #1a1a1a;
+}
+#our_srvice2 .service_part:hover h5 a{
+	color: #40e0d0
+}
+#our_srvice2 .service_part:hover .read_more2_btn {
+	color: #40e0d0
+}
+
+.btn-primary:active, 
+.btn-primary.active {
+	color: #40e0d0
+}
+.btn-secondary:hover{
+	color: #1a1a1a
+}
+.social_media a.active, 
+.social_media a:hover {
+	color: #1a1a1a
+}
+.achievement h6 {
+	color: #fff
+}
+.year {
+	color: #40e0d0
+}
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a,  
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,  
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+	color: #40e0d0
+}
+.pagination > li > a:hover, 
+.pagination > li > span:hover, 
+.pagination > li > a:focus, 
+.pagination > li > span:focus{
+	background-color: #40e0d0
+} 
+.carousel-indicators .active,
+.page-style2 #slider .carousel-indicators li.active{
+	background-color: #40e0d0
+}
+.section_title_1:before, 
+.section_title_1:after {
+	background: #40e0d0
+} 
+.slider_caption h1:before {
+	background: #40e0d0
+} 
+#our_srvice {
+	background: #f1f1f1
+}
+.default-portfolio-item .overlay-box {
+	background: #40e0d0
+}
+.service_part::before {
+	background: #40e0d0
+}
+.section_sub_title p {
+	color: #1a1a1a
+} 
+.navbar-default .navbar-nav > li > a {
+	color: #1a1a1a
+} 
+.gallery-section .filter-btns li {
+	color: #1a1a1a
+} 
+.error_content h4 {
+	color: #1a1a1a
+}
+.down_line_yellow:before {
+	background: #40e0d0
+} 
+.navbar-default .navbar-nav > .active > a:before, 
+.navbar-default .navbar-nav > .active > a:after {
+	background: #40e0d0
+}
+.down_line_black:before {
+	background: #1a1a1a
+} 
+.year{
+	background: #1a1a1a
+}
+#header_top {
+	background: #40E0D0
+} 
+.small_img .small_img_overlay {
+	background: #1a1a1a
+} 
+.choose_reason_icon  {
+	background: #000
+}
+.service_left .service_icon,
+.service_right .service_icon {
+	border-color: #f1f1f1
+}
+.choose_reason_icon {
+	border-color: #000
+}
+.contact_icon {
+	border-color: #40e0d0
+}
+.apartment:hover h5, 
+.office:hover h5, 
+.move_in_out:hover h5, 
+.car_washing:hover h5, 
+.renovation:hover h5, 
+.green_cleaning:hover h5 {
+	color: #40e0d0;
+}
+
+/*---------Service Icons ------------*/
+.apartment .service_icon {
+	background: #1a1a1a url("../images/icon/2a.png") no-repeat center / 30% 30%;
+}
+.apartment:hover .service_icon {
+	background: #40e0d0 url("../images/icon/2a.png") no-repeat center / 30% 30%;
+}
+.office .service_icon {
+	background: #1a1a1a url("../images/icon/1a.png") no-repeat center / 30% 30%;
+}
+.office:hover .service_icon {
+	background: #40e0d0 url("../images/icon/1a.png") no-repeat center / 30% 30%;
+}
+.move_in_out .service_icon {
+	background: #1a1a1a url("../images/icon/6a.png") no-repeat center / 40% 40%;
+}
+.move_in_out:hover .service_icon {
+	background: #40e0d0 url("../images/icon/6a.png") no-repeat center / 40% 40%;
+}
+.car_washing .service_icon {
+	background: #1a1a1a url("../images/icon/8a.png") no-repeat center / 30% 30%;
+}
+.car_washing:hover .service_icon {
+	background: #40e0d0 url("../images/icon/8a.png") no-repeat center / 30% 30%;
+}
+.renovation .service_icon {
+	background: #1a1a1a url("../images/icon/9a.png") no-repeat center / 30% 30%;
+}
+.renovation:hover .service_icon {
+	background: #40e0d0 url("../images/icon/9a.png") no-repeat center / 30% 30%;
+}
+.green_cleaning .service_icon {
+	background: #1a1a1a url("../images/icon/10.png") no-repeat center / 40% 40%;
+}
+.green_cleaning:hover .service_icon {
+	background: #40e0d0 url("../images/icon/10.png") no-repeat center / 40% 40%;
+}
+.service_middle {
+	border-color: #1a1a1a
+} 
+.download a:hover, 
+.download a:focus {
+	border-color: #1a1a1a
+}
+.download2 a:hover, 
+.download2 a:focus {
+	border-color: #1a1a1a
+}
+.gallery-section .filter-btns li:hover, 
+.gallery-section .filter-btns li.active {
+	color: #40e0d0
+}
+.gallery-section .filter-btns li.active{
+	color: #40e0d0;
+	border-color: #40e0d0
+}
+.my_btn2 {
+	color: #f7465b;
+	border-color: #f7465b
+}
+.my_btn2:hover {
+	background: #f7465b;
+	color: #fff
+}
+.pagination > li > a, 
+.pagination > li > span {
+	background-color: #f5f5f5;
+}
+#quote_testmonial {
+	background: #ebebeb
+} 
+#company_video {
+	background: #f5f5f5
+}
+#partners {
+	background: #f5f5f5
+}
+.other_service {
+	background: #f5f5f5
+}
+.brochure_details {
+	background: #f5f5f5
+} 
+.information {
+	background: #f5f5f5
+}
+.search_box {
+	background: #f5f5f5
+}
+.single_category {
+	background: #f5f5f5
+}
+.comment_name {
+	background: #f5f5f5
+}
+.comment_email {
+	background: #f5f5f5
+}
+.comment_url {
+	background: #f5f5f5
+}
+.comment_message  {
+	background: #f5f5f5
+}
+.quote {
+	background: #40e0d0
+}
+.get_quote select option {
+	background: #40e0d0
+}
+.blog_post:hover .blog_date {
+	background: #40e0d0
+}
+.save_money {
+	background: #40e0d0
+}
+.according_title.active {
+	background: #40e0d0
+} 
+#get_quote_banner {
+	background: #40e0d0
+}
+.member_img_hover {
+	background: #40e0d0
+}
+.download a, 
+.download2 a {
+	background: #40e0d0
+}
+.other_service:hover, 
+.other_service.active {
+	background: #40e0d0
+}
+.single_category:hover {
+	background: #40e0d0
+}
+.single_comment:hover h6 a {
+	color: #40e0d0
+}
+.photo_gallery a:hover:before {
+	background: #40e0d0
+} 
+.single_blog_date {
+	background: #40e0d0
+} 
+#message_location {
+	background: #40e0d0
+} 
+.newsletter_form input[type="submit"] {
+	background: #40e0d0
+}
+.quote h3 {
+	color: #1a1a1a
+} 
+.testmonial h3 {
+	color: #1a1a1a
+} 
+.quote p {
+	color: #1a1a1a
+}
+.blog_title a {
+	color: #1a1a1a
+}
+.quote_text p strong {
+	color: #1a1a1a
+} 
+.member_img_hover .social_media a:hover {
+	color: #1a1a1a
+}
+h4.member_name a {
+	color: #1a1a1a
+} 
+.service_part:hover h5 a {
+	color: #1a1a1a
+} 
+.service_part:hover .read_more2_btn {
+	color: #1a1a1a
+} 
+.project-thumbnail a.onlive::after {
+	color: #1a1a1a
+}
+.information_table li b {
+	color: #1a1a1a
+} 
+.blog_right_sidebar h5 {
+	color: #1a1a1a
+}
+.single_category span {
+	color: #1a1a1a
+}
+.single_recent_post h6 a, 
+.single_comment h6 a {
+	color: #1a1a1a
+}
+blockquote p {
+	color: #1a1a1a
+}
+.post_social_media a {
+	color: #1a1a1a
+} 
+.message p, 
+.message h3 {
+	color: #1a1a1a
+} 
+.error_content h5 {
+	color: #1a1a1a
+} 
+.dropdown-menu > li > a {
+	color: #1a1a1a
+}
+.page-style2 .dropdown-menu > li > a {
+	color: #fff
+} 
+.pagination > li > a, 
+.pagination > li > span {
+	color: #818181
+}
+.testimonials .owl-theme .owl-dots .owl-dot span, 
+.side_testimonial_part .owl-theme .owl-dots .owl-dot span{
+	background: #1a1a1a
+}
+.testimonials .owl-theme .owl-dots .owl-dot.active span, 
+.side_testimonial_part .owl-theme .owl-dots .owl-dot.active span{
+	background: #40e0d0;
+}
+.blog_date {
+	background: #1a1a1a
+} 
+.according_title {
+	background: #1a1a1a
+} 
+.download a:hover, 
+.download a:focus {
+	background: #1a1a1a
+} 
+.download2 a:hover, 
+.download2 a:focus {
+	background: #1a1a1a
+} 
+.contact_icon {
+	background: #1a1a1a
+} 
+.footer_top {
+	background: #1a1a1a
+}
+.copyright {
+	background: #40e0d0
+}
+.post_admin a {
+	color: #40e0d0
+}
+.blog_post:hover .blog_title a {
+	color: #40e0d0
+}
+.blog_post:hover .read_more_btn {
+	color: #40e0d0
+} 
+.according_details a {
+	color: #40e0d0
+}
+.team_member:hover .member_name a {
+	color: #40e0d0
+} 
+.service_part h5 a {
+	color: #1a1a1a
+}
+.service_part button.blank_btn a {
+	color: #40e0d0
+} 
+.feedback-sidebar .user h6 {
+	color: #40e0d0
+} 
+.text-box ul li i {
+	color: #40e0d0
+} 
+.single_recent_post h6 a:hover {
+	color: #40e0d0
+} 
+.single_comment p a {
+	color: #40e0d0
+}
+.archive_post a:hover {
+	color: #40e0d0
+}
+.single_post_admin a {
+	color: #40e0d0
+} 
+.tag a:hover {
+	color: #40e0d0
+}
+.tag span {
+	color: #40e0d0
+}
+.post_social_media a:hover {
+	color: #40e0d0
+}
+.replay {
+	color: #40e0d0
+}
+.error_content h1 {
+	color: #40e0d0
+}
+.quick_link ul li a:hover {
+	color: #40e0d0
+}
+.touch li h6 i {
+	color: #40e0d0
+}
+.blog_post:hover {
+	border-color: #40e0d0
+}
+.year {
+	border-color: #40e0d0
+}
+.single_partner:hover {
+	border-color: #40e0d0
+}
+.project-thumbnail a.onlive::after {
+	border-color: #40e0d0
+}
+.download a, 
+.download2 a {
+	border-color: #40e0d0	
+}
+.service_part{
+	background: #f5f5f5;
+}
+
+.side_testimonial_part{
+	border-color: #ebeae4
+}
+.single_blog_details {
+	border-bottom-color: #f5f5f5
+}
+.all_comment{
+	border-bottom-color: #f5f5f5
+}
+.offer{
+	background: #fbd138;
+}
+.objection {
+    background: #f8c304;
+}
+#single_project .service-slider .owl-controls .owl-prev:hover{
+	background: #40e0d0 url(../images/icon/white_left_arrow.png) no-repeat;
+	background-position: center center;
+	background-size: 20px
+}
+#single_project .service-slider .owl-controls .owl-next:hover{
+	background: #40e0d0 url(../images/icon/white_right_arrow.png) no-repeat;
+	background-position: center center;
+	background-size: 20px
+}
+.dropdown-menu > li > a:hover, 
+.dropdown-menu > li > a:focus{
+	background-color: #f5f5f5
+}
+.page-style2 .dropdown-menu > li > a:hover, 
+.page-style2 .dropdown-menu > li > a:focus{
+	background-color: #40e0d0;
+	color: #000
+}
+.dropdown-menu > .active > a, 
+.dropdown-menu > .active > a:hover, 
+.dropdown-menu > .active > a:focus{
+	background-color: transparent;
+	color: #fff
+}
+.page-style2 .dropdown-menu > .active > a, 
+.page-style2 .dropdown-menu > .active > a:hover, 
+.page-style2 .dropdown-menu > .active > a:focus{
+	background-color: transparent;
+	color: #40e0d0
+}
+.navbar-nav > li:hover > a{
+	color: #40e0d0
+}
+.page-style2 .navbar-nav > li:hover > a{
+	color: #fff
+}
+/*-------------- Service Page Icond --------------*/
+
+.home_service .service_icon {
+	background: #1a1a1a url(../images/icon/home.png) no-repeat center center;
+	background-size: 40px 40px
+}
+.home_service:hover .service_icon {
+	background: #1a1a1a url(../images/icon/home.png) no-repeat center center;
+	background-size: 40px 40px
+}
+.car_service .service_icon {
+	background: #1a1a1a url(../images/icon/white_car.png) no-repeat center center;
+	background-size: 40px 40px
+}
+.car_service:hover .service_icon {
+	background: #1a1a1a url(../images/icon/white_car.png) no-repeat center center;
+	background-size: 40px 40px
+}
+.office_service .service_icon {
+	background: #1a1a1a url(../images/icon/office.png) no-repeat center center;
+	background-size: 40px 40px
+}
+.office_service:hover .service_icon {
+	background: #1a1a1a url(../images/icon/office.png) no-repeat center center;
+	background-size: 40px 40px
+}
+.renovation_service .service_icon {
+	background: #1a1a1a url(../images/icon/white_paintbrush.png) no-repeat center center;
+	background-size: 40px 40px
+}
+.renovation_service:hover .service_icon {
+	background: #1a1a1a url(../images/icon/white_paintbrush.png) no-repeat center center;
+	background-size: 40px 40px
+}
+.in_out_service .service_icon {
+	background: #1a1a1a url(../images/icon/express.png) no-repeat center center;
+	background-size: 40px 40px
+}
+.in_out_service:hover .service_icon {
+	background: #1a1a1a url(../images/icon/express.png) no-repeat center center;
+	background-size: 40px 40px
+}
+.green_service .service_icon {
+	background: #1a1a1a url(../images/icon/white-tree-leaf.png) no-repeat center center;
+	background-size: 40px 40px
+}
+.green_service:hover .service_icon {
+	background: #1a1a1a url(../images/icon/white-tree-leaf.png) no-repeat center center;
+	background-size: 40px 40px
+}
+
+@media (min-width: 992px){
+.nav .dropdown-menu{
+	background: #40e0d0
+}
+.page-style2 .nav .dropdown-menu{
+	background: #000
+}
+.page-style2 .nav.navbar-nav{
+	background: #40e0d0;
+	position: relative
+}
+.page-style2 .fixed-header .nav.navbar-nav::before{
+	background-color: #40e0d0
+}
+}
+@media (max-width: 991px){
+.navbar-default .navbar-nav > .open > a, 
+.navbar-default .navbar-nav > .open > a:hover, 
+.navbar-default .navbar-nav > .open > a:focus, 
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,  
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+	color: #40e0d0;
+	background: transparent
+}
+.navbar-default .navbar-nav > .active > a::before, 
+.navbar-default .navbar-nav > .active > a::after{
+	background: transparent;
+	color: #40e0d0
+}
+.page-style2 .navbar-default .navbar-nav > li > a{
+	color: #fff
+}
+.page-style2 .navbar-nav > li:hover > a{
+	color: #40e0d0
+}
+}

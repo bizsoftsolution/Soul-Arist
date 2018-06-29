@@ -1,0 +1,9 @@
+[08-Mar-2018 11:01:25 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/tessellateworld/public_html/denariusoft.com/templates/soularistfinal/subsribe.php on line 30
+[08-Mar-2018 11:02:07 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/tessellateworld/public_html/denariusoft.com/templates/soularistfinal/subsribe.php on line 30
+[08-Mar-2018 11:03:58 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/tessellateworld/public_html/denariusoft.com/templates/soularistfinal/subsribe.php on line 30
+[08-Mar-2018 11:14:47 UTC] PHP Warning:  explode() expects parameter 1 to be string, array given in /home/tessellateworld/public_html/denariusoft.com/templates/soularistfinal/info_enquiry.php on line 28
+[08-Mar-2018 11:14:47 UTC] PHP Warning:  explode() expects parameter 1 to be string, array given in /home/tessellateworld/public_html/denariusoft.com/templates/soularistfinal/info_enquiry.php on line 32
+[08-Mar-2018 11:17:12 UTC] PHP Warning:  explode() expects parameter 1 to be string, array given in /home/tessellateworld/public_html/denariusoft.com/templates/soularistfinal/info_enquiry.php on line 28
+[08-Mar-2018 11:17:12 UTC] PHP Warning:  explode() expects parameter 1 to be string, array given in /home/tessellateworld/public_html/denariusoft.com/templates/soularistfinal/info_enquiry.php on line 32
+[08-Mar-2018 11:36:52 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/tessellateworld/public_html/denariusoft.com/templates/soularistfinal/communities_enquiry.php on line 35
+[08-Mar-2018 11:44:16 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/tessellateworld/public_html/denariusoft.com/templates/soularistfinal/communities_enquiry.php on line 35
